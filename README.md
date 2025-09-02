@@ -8,8 +8,7 @@ I. Project Overview
         • Translate real-world problems into appropriate data structures.
         • Apply encapsulation, abstraction, and class-based design.
         • Implement linked list operations (insertion, deletion, search, update, traversal).
-        • Demonstrate problem-solving skills through pseudocode and flowcharts before
-        coding.
+        • Demonstrate problem-solving skills through pseudocode and flowcharts before coding.
         • Defend and explain your code implementation.
 II. Project Objectives
 
