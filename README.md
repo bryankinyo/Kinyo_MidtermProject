@@ -12,12 +12,14 @@
         coding.
         • Defend and explain your code implementation.
 #II. Project Objectives
+    
     By completing this project, you are expected to:
         1. Develop a deeper understanding of linked list operations and their applications.
         2. Apply OOP concepts to design and implement modular, reusable, and maintainable code.
         3. Strengthen algorithmic thinking and logical problem-solving skills.
         4. Cultivate independence in coding, debugging, and documenting your own work.
 #III. Project Requirements
+    
     Your program must include the following features:
         1. Add a New Student - Insert at the beginning, at the end, or at a specified position.
         2. Delete a Student - Remove a student record using the student’s ID.
@@ -25,6 +27,7 @@
         4. Update Student Details - Modify information such as Name, Course, Year Level, or GPA.
         5. Display All Students - Traverse and display all records stored in the linked list.
 #IV. Development Phases
+    
     A. Design Phase (Pre-Coding Requirement)
         • Prepare pseudocode for each operation.
         • Draw flowcharts representing the logic of your program.
@@ -44,6 +47,7 @@
         • Each student will defend their code through an oral presentation.
         • During the defense, you will be asked to explain specific portions of your code and demonstrate selected features.
 #V. Submission Guidelines
+    
     Submit the following items on or before the deadline:
     1. Printed copy of pseudocode, flowcharts, and class diagram.
     2. Source code files.
