@@ -1,7 +1,8 @@
 # Kinyo_MidtermProject
 
 #I. Project Overview
-    As part of your midterm requirements, you are tasked to design and implement a consolebased Student Record Management System applying Linked List data structures and
+    
+As part of your midterm requirements, you are tasked to design and implement a consolebased Student Record Management System applying Linked List data structures and
     Object-Oriented Programming (OOP) principles.
       This project will assess your ability to:
         • Translate real-world problems into appropriate data structures.
